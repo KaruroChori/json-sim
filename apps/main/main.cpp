@@ -100,6 +100,6 @@ int main(int argc, const char* argv[]){
     }
 
     std::cout<<"######################################################\n\n";
-    std::cout<<"お早うセカイ\n";
+    std::cout<<"お早う世界！\n";
     return 0;
 }
