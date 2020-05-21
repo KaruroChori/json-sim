@@ -11,7 +11,8 @@ echo "{}" | simulator
 ```
 or:
 ```
-cat file.json | simulator
+cat model.json | simulator
 ```
 
 There is no further input required. By default output is emitted according to the configuration JSON object. **cout** is still being used for debugging while **cerr** will display errors.
+You can use `model.json` as a test-file.

@@ -1,0 +1,9 @@
+{
+	"workspace":"/tmp/h3",
+	"model":{"@":"link"},
+	"patches":[],
+	"tweaks":{},
+	"callback":{},
+	"parallel":8,
+	"tasks":{"a":{"end-condition":{},"instances":10},"b":{"end-condition":{},"instances":5}}
+}
