@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.15)
 project(framework)
 
-set(LIBS "" CACHE INTERNAL "LIBS")
+set(LOC_LIBS "" CACHE INTERNAL "LOC_LIBS")
 
 
 set(CMAKE_CXX_STANDARD 20)

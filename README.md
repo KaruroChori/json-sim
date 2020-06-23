@@ -1,5 +1,8 @@
-Basic repository to have a functional environment to start coding in tailored for my needs.
-I am not a cmake expert, so I am sure many things may have been a lot cleaner, but it does work for me so `¯\_(ツ)_/¯`.
+Agnostic user oriented interface for stochastic simulators. It does provide an organized way to interface with any stochastic simulator in a standardised way.
+It does support callbacks, multiple tasks and parallel execution. The class interface to be implemented is pretty thin and should be feasible for any simulator.
+There is some incomplete documentation in the directory **docs**.
+
+Licence is not ready yet, so for the time being by default all rights reserved. It will be available is a free one later on.
 
 >
 `git submodule update --init --recursive`

@@ -8,5 +8,5 @@ foreach(T ${DIRS})
 	add_subdirectory(${TS})
 endforeach(T)
 
-set(LIBS ${LIBS} "nlohmann_json::nlohmann_json" CACHE INTERNAL "LIBS")
-set(LIBS ${LIBS} "cpr" CACHE INTERNAL "LIBS")
+set(LOC_LIBS ${LOC_LIBS} "nlohmann_json::nlohmann_json" CACHE INTERNAL "LOC_LIBS")
+set(LOC_LIBS ${LOC_LIBS} "cpr" CACHE INTERNAL "LOC_LIBS")
